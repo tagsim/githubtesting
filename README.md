@@ -1,1 +1,9 @@
-# githubtesting
+# Simone's Portfolio Project
+
+# Project 1: [Patient Outreach Optimization]
+This was a personal project to build my skills in health and marketing analytics, the goal of the project is to support optimization of patient outreach in hospital.
+*The data was taken from Patient Treatment Classification Dataset
+*Model used...
+*Algorithm used...
+* K-Nearest Neighbor algorithm
+* The project write up is available at...
